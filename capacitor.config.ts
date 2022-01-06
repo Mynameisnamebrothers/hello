@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.jamesonsaunders.convertwebsitetoapp',
-  appName: 'Website to App',
+  appId: 'com.google.sites',
+  appName: 'Minecraft Club 4C',
   webDir: 'www',
   bundledWebRuntime: false,
 };
